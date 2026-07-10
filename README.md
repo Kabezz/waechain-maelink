@@ -1,4 +1,4 @@
-# waechain
+# [waechain](https://kabezz.github.io/waechain-maelink/)
 waechain: the scratch maelink client
 
 made in scratch (waow)
