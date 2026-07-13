@@ -4,6 +4,10 @@ waechain: the scratch maelink client
 made in scratch (waow)
 
 ## changelog
+### july 12th, 2026 - alpha 2, hotfix 1
+- fixed connecting (token grabbing)
+- fixed custom addresses
+
 ### july 10th, 2026 - alpha 2
 - registering
 - viewing home as guest
